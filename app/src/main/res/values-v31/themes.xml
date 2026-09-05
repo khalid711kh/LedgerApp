@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Ledger.Splash" parent="Theme.Ledger">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <!-- For Android 12+ (API 31+) to hide the white circle and make logo look integrated -->
+        <item name="android:windowSplashScreenBackground">#0A0E17</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#0A0E17</item>
+    </style>
+</resources>

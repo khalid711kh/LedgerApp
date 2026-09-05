@@ -1,0 +1,5 @@
+- [/] Bundle JavaScript libraries locally
+- [ ] Bundle fonts locally
+- [ ] Update `index.html` to use local assets
+- [ ] Match `WebView` background with splash
+- [ ] Build and verify startup speed
