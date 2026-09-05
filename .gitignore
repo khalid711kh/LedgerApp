@@ -1,5 +1,25 @@
-# Project exclude paths
+# Build artifacts
 /.gradle/
 /app/.gradle/
 /app/build/
-/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/build/
+/app/debug/
+/app/release/
+/local.properties
+/app/local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+/captures/
+.externalNativeBuild
+.cxx
+
+# Logs
+*.log
+
+# Project specific
+.artifacts/
+.DS_Store
